@@ -1,4 +1,4 @@
-# Wykop.pl Community Issues
+# Wykop.pl Unofficial Community Issues
 
 https://github.com/Wykop-pl/Issues/issues
 
