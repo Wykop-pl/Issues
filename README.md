@@ -4,8 +4,9 @@
 
 https://github.com/Wykop-pl/Issues/issues
 
-* Jeden request/issue - jeden ticket
-* Sprawdź czy problem, propozycja nie została już zgłoszona.
+* Jeden enhancement/issue = jeden ticket
+* Sprawdź czy problem, propozycja nie została już zgłoszona wcześniej
+* Staraj się dobrze opisać rzecz którą zgłaszasz 
 
 ## Kontakt
 
