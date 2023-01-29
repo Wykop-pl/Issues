@@ -4,7 +4,7 @@
 
 https://github.com/Wykop-pl/Issues/issues
 
-* Jeden enhancement/issue = jeden ticket
+* Jedna sprawa = jeden ticket
 * Sprawdź czy problem, propozycja nie została już zgłoszona wcześniej
 * Staraj się dobrze opisać rzecz którą zgłaszasz 
 
@@ -12,6 +12,7 @@ https://github.com/Wykop-pl/Issues/issues
 
 * https://wykop.pl/ludzie/m__b
 * https://wykop.pl/ludzie/a__s
+* https://wykop.pl/ludzie/wykop
 
 ## Autor
 
