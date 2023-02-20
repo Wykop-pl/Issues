@@ -1,4 +1,4 @@
-# Wykop.pl Unofficial Community Issues
+# Wykop.pl Community Issues
 
 ![Wykop.pl](https://github.com/Wykop-pl/statics/raw/main/wykop-uci-recznie.png)
 
